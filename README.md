@@ -1,5 +1,5 @@
 # SALES-ANALYTICS-DASHBORD
-Here is a professional **GitHub README** you can use for your **Sales Analytics Dashboard – Excel** project.
+
 
 # 📊 Sales Analytics Dashboard – Excel
 
